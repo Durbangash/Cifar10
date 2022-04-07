@@ -1,2 +1,2 @@
 # Cifar10
-Multiclass classification
+Multiclass classification using Pytorch
